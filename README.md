@@ -6,7 +6,7 @@
 
 # :pushpin: Tabela de Conteúdo
 
-<!--* [Site de Demostração](#eyes-site-de-demostração) -->
+* [Site de Demostração](#eyes-site-de-demostração)
 * [Tecnologias](#computer-tecnologias)
 
 <!--
